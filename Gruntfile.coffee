@@ -12,7 +12,8 @@ module.exports = (grunt) ->
     concat:
       vendor:
         src: [
-          'bower_components/jquery/jquery.min.js'
+          # 'bower_components/jquery/jquery.min.js'
+          'bower_components/lodash/dist/lodash.min.js'
           'bower_components/backbone/backbone-min.js'
           'bower_components/hammerjs/dist/hammer.min.js'
         ]
