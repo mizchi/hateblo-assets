@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-concat": "~0.1.6",
+    "grunt-este-watch": "~0.1.7",
+    "grunt-connect": "~0.2.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-coffee": "0.0.6",
+    "grunt-contrib-coffee": "~0.7.0"
+  }
 }
